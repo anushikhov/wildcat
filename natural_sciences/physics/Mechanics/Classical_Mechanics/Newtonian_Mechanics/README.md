@@ -1,0 +1,1 @@
+Newtonian mechanics is the branch of classical physics, formulated by Isaac Newton in the 17th century, that describes the motion of macroscopic objects using forces, mass, and acceleration. Based on three fundamental laws of motion and universal gravitation, it accurately predicts behavior for objects that are not extremely fast (non-relativistic) or massive. 

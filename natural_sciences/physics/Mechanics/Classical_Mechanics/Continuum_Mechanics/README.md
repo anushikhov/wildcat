@@ -1,0 +1,1 @@
+Continuum mechanics is a branch of physics and engineering that models the mechanical behavior of solids and fluids as continuous media rather than discrete particles. By ignoring atomic structures, it analyzes macroscopic deformations, stresses, and motion using conservation laws (mass, momentum, energy) and material-specific constitutive equations.

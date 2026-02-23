@@ -1,0 +1,1 @@
+**hyperbole:**  a way of speaking or writing that makes someone or something sound bigger, better, more,smaller, worse, more unusual etc. than they are. E.g. _The blurb on the back of the book was full of the usual hyperbole - "enthralling", "fascinating", and so on._  Synonym - exaggeration

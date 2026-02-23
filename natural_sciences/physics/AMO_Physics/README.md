@@ -1,0 +1,1 @@
+Atomic, Molecular, and Optical (AMO) physics is the study of matter-matter and light-matter interactions at the atomic and molecular scale. Key research areas include ultracold atom manipulation, quantum information science, precision spectroscopy (e.g., optical clocks), and laser development. It enables breakthroughs in quantum sensing and simulation.   

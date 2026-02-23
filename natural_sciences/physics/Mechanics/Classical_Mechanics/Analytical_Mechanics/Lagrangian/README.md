@@ -1,0 +1,1 @@
+**Lagrangian Mechanics** formulates mechanics in terms of generalized coordinates, velocities, and the Lagrangian $L = T - V$ (kinetic energy minus potential energy). It is particularly effective for systems with constraints.

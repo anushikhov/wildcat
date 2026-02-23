@@ -1,0 +1,1 @@
+Mechanics of rigid bodies is a field within mechanics where motions and forces of objects are studied without considering effects that can cause deformation (as opposed to mechanics of materials, where deformable objects are considered).   
